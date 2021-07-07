@@ -4,7 +4,7 @@
 ## Overview of Project
 
 ### Purpose
-
+To visualize campaign outcomes based on their launch dates and their funding goals.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date

@@ -32,4 +32,8 @@ One of the biggest challenges was the amount of information given. I beileve wit
 
 - What are some limitations of this dataset?
 
+  We only have several years of data and the currency is different.
+
 - What are some other possible tables and/or graphs that we could create?
+
+  Bar Charts and Scatter Plots.

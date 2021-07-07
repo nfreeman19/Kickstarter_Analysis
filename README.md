@@ -8,10 +8,11 @@ To visualize campaign outcomes based on their launch dates and their funding goa
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-To show by month how many outcomes by number were either successful, failed or canceled.
+To show by month how many outcomes for theater specifically by number were either successful, failed or canceled. 
 
 
 ### Analysis of Outcomes Based on Goals
+To show by percentage the outcomes for goals specifically by amount of money were either successful, failed or canceled.
 
 ### Challenges and Difficulties Encountered
 

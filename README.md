@@ -21,9 +21,12 @@ One of the biggest challenges was the amount of information given. I beileve wit
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-The outcomes were all over the place but never overlapping. The months of May and June had a highly successful outcome.
+The outcomes were all over the place but never overlapping. 
+The months of May and June had a highly successful outcome.
 
 - What can you conclude about the Outcomes based on Goals?
+It made sense that the percentage canceled would not have made any goal.
+The successful and failed outcomes percentages overlapped each other more than ones. 
 
 - What are some limitations of this dataset?
 

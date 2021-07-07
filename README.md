@@ -8,7 +8,8 @@ To visualize campaign outcomes based on their launch dates and their funding goa
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+To show by month how many outcomes by number were either successful, failed or canceled.
+https://github.com/nfreeman19/Kickstarter_Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
